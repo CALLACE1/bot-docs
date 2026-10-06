@@ -2,7 +2,7 @@
 
 **Effective Date:** October 6, 2026  
 **Bot Name:** PokéNinja ("the Bot")  
-**Developer/Owner:** Muhammed Simaq
+**Developer/Owner:** CALL_ACE
 
 This Privacy Policy describes how **PokéNinja** collects, uses, and safeguards information when you invite, configure, or use the Bot in your Discord server. By using the Bot, you consent to the data practices described in this policy.
 
