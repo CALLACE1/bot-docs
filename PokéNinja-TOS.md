@@ -38,7 +38,7 @@ You agree **not** to engage in, or attempt, any of the following actions:
 ---
 
 ### 5. Limitation of Liability
-To the maximum extent permitted by law, the developer (Muhammed Simaq) shall not be held liable for any direct, indirect, incidental, special, or consequential damages resulting from:
+To the maximum extent permitted by law, the developer (CALL_ACE) shall not be held liable for any direct, indirect, incidental, special, or consequential damages resulting from:
 * The use or inability to use the Bot.
 * Unauthorized access to or alteration of server configurations due to poor administrator permission management.
 * Actions taken by Discord against your server or bot instance.
