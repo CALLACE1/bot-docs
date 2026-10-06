@@ -2,7 +2,7 @@
 
 **Effective Date:** October 6, 2026  
 **Bot Name:** PokéNinja ("the Bot")  
-**Developer/Owner:** Muhammed Simaq
+**Developer/Owner:** CALL_ACE
 
 By inviting, configuring, or using **PokéNinja** in any Discord server, you (the "Server Owner", "Administrator", or "User") agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must remove the Bot from your server immediately.
 
